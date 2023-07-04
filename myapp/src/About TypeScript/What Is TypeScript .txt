@@ -1,0 +1,12 @@
+
+TypeScript is a programming language that is a superset of JavaScript developed and maintained by Microsoft,
+it includes all of JavaScript's features and adds additional functionality. 
+
+TypeScript provides static typing, which allows developers to catch errors before runtime, 
+making it easier to maintain and scale large codebases. 
+
+It also includes features such as classes, interfaces, and modules, which make it easier to write and organize code. 
+TypeScript is widely used in web development, especially in Angular projects.
+
+In short, TypeScript is a powerful tool for developing large-scale applications, 
+improving code maintainability and catching errors earlier in the development process.

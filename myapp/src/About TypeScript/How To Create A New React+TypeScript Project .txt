@@ -1,0 +1,7 @@
+npx create-react-app myapp --template typescript 
+
+this command will create a basic project for React With Typescript Support 
+
+npm start 
+
+for running the project
